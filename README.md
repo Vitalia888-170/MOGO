@@ -4,7 +4,7 @@ MOGO is site of IT company, where you can learn about services, works and progra
 But this is not usual. The team also have one cool hobby, which they combine with work - photography.
 
 ### Features:
-- Modal with tours description and slider
+- Arrow for scrolling page to the top
 - Animated counter
 - Collection of images with lazy loading when you click on button, called "Show more"
 
